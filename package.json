@@ -1,0 +1,30 @@
+{
+    "author": "cobxo3bot@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "multizone",
+    "pebble": {
+        "displayName": "MultiZone",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "icon": 2,
+            "message": 1,
+            "status": 0,
+            "temperature": 3
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "1a1f837f-c7e0-43c6-ac20-88aaccb1da8f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
